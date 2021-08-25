@@ -39,11 +39,11 @@ Open the *XLoader.exe* within the XLoader folder
 
 ## Using serial plot
 
-Under the [Serial Plot](https://github.com/3rdWaveLabs/SEMS_2_Zone_Binaries/tree/master/Serial%20Plot) folder you will find everything you need to install and use serial plot.
+Under the [Serial Plot](https://github.com/3rdWaveLabs/SEMES_2_Zone_Binaries/tree/master/Serial%20Plot) folder you will find everything you need to install and use serial plot.
 
 ### Installation
 
-Install serial plot using the [serialplot-0.11.0-win32.exe](https://github.com/3rdWaveLabs/SEMS_2_Zone_Binaries/blob/master/Serial%20Plot/serialplot-0.11.0-win32.exe)
+Install serial plot using the [serialplot-0.11.0-win32.exe](https://github.com/3rdWaveLabs/SEMES_2_Zone_Binaries/blob/master/Serial%20Plot/serialplot-0.11.0-win32.exe)
 
 ### Setup and Use
 
