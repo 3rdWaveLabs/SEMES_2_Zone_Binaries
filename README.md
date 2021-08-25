@@ -71,7 +71,3 @@ To record data in serial plot for later analyization, click the record button an
 ![](images/serialplot_record.png)
 
 Clicking the record button again saves the file and stops writing.
-
-# RS485 USB Dongle Driver (CH340)
-
-### [Driver](https://github.com/wcschroe/Prismatic_4x_Binaries/tree/master/CH340)
