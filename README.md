@@ -47,7 +47,7 @@ Install serial plot using the [serialplot-0.11.0-win32.exe](https://github.com/3
 
 ### Setup and Use
 
-After installing Serial Plot, load the proper settings from [SEMES_2_Zone_logging_config.ini](https://github.com/3rdWaveLabs/SEMS_2_Zone_Binaries/blob/master/Serial%20Plot/SEMES_2_Zone_logging_config.ini)
+After installing Serial Plot, load the proper settings from [SEMES_2_Zone_logging_config.ini](https://github.com/3rdWaveLabs/SEMES_2_Zone_Binaries/blob/master/Serial%20Plot/SEMES_2_Zone_logging_config.ini)
 
 ![](images/serialplot_load.png)
 
