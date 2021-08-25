@@ -64,6 +64,14 @@ If you don't see it listed, click the refresh button next to open.
 
 Upon connecting, you will hear the controller restart. This is normal behavior. After a few seconds the data will start showing in the plot window.
 
+## Recording Data
+
+To record data in serial plot for later analyization, click the record button and give the file a name with the file type ".csv"
+
+![](images/serialplot_record.png)
+
+Clicking the record button again saves the file and stops writing.
+
 # RS485 USB Dongle Driver (CH340)
 
 ### [Driver](https://github.com/wcschroe/Prismatic_4x_Binaries/tree/master/CH340)
