@@ -64,6 +64,12 @@ If you don't see it listed, click the refresh button next to open.
 
 Upon connecting, you will hear the controller restart. This is normal behavior. After a few seconds the data will start showing in the plot window.
 
+**Streaming from the controller can be enabled on the "Control Tuning" page of the HMI.**
+
+**Streaming should be disabled durring normal operation, as it slows loop time.**
+
+![](images/HMI_streaming.jpg)
+
 ## Recording Data
 
 To record data in serial plot for later analyization, click the record button and give the file a name with the file type ".csv"
