@@ -72,7 +72,7 @@ Upon connecting, you will hear the controller restart. This is normal behavior. 
 
 ## Recording Data
 
-To record data in serial plot for later analyization, click the record button and give the file a name with the file type ".csv"
+To record data in serial plot for later analyzation, click the record button and give the file a name with the file type ".csv"
 
 ![](images/serialplot_record.png)
 
